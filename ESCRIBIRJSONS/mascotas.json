@@ -1,0 +1,56 @@
+{
+    "identificador":"valor",
+
+    "arreglo_mascotas": [
+        {
+            "nombre": "juan",
+            "edad" : 59,
+            "genero": true,
+            "status": "muerto",
+            "identificacion":
+            {
+                "id" : 262626,
+                "pais" : "Mexico",
+                "estado" : "DF",
+                "ciudad": "CDMX",
+                "fotografia" :"",
+                "pedigree":
+                {
+                    "nombre_raza" : "Xolo",
+                    "porcentaje_pureza": "87%",
+                    "color": "Morado",
+                    "familia_peruna":
+                    {
+                        "progenitores":
+                        {
+                            "padre": 
+                            {
+                                "id": 62626,
+                                "nombre": "Pablo",
+                                "raza": "Electrico"
+                            },
+                            "madre": 
+                            {
+                                "id": 62626,
+                                "nombre": "Maria",
+                                "raza": "Xolo"
+                            }
+                        },
+                        "hermanos":[
+                            {
+                                "id": 6
+                            },
+                            {
+                                "id": 6
+                            },
+                            {
+                                "id": 6
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+        
+}

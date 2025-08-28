@@ -1,0 +1,88 @@
+{
+    "variable": 24,
+    "variable2":25,
+    "variable3":"Soy Maximo Decimo Meridio",
+    "url_imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm764468.html&psig=AOvVaw2Fy7SVAEqSgxbK8fJTvOnU&ust=1756394333699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi6mKHcq48DFQAAAAAdAAAAABAE",
+    "coleccion" : {
+        "texto": "Este texto esta dentro de la coleccion",
+        "numero" : 478,
+        "bandera": true
+    },
+    "texto" : "Otro Texto",
+    "arreglo0": [
+        "texto",
+        "Adios",
+        "Gracias",
+        "Lo siento",
+        69,
+        "Por Favor",
+        "No ocurrira Nuevamente",
+        {
+            "naranjas": 20
+        },
+        {
+            "dias":[
+                "lunes",
+                "martes",
+                "miercoles"
+            ]
+        }
+    ],
+    "arreglo_bidimensional":[
+        [
+            1,
+            2,
+            3
+        ],
+        [
+            4,
+            5,
+            6,
+            5
+        ]
+    ],
+    "arreglo_personas":[
+        {
+            "nombre": "Pepe",
+            "edad": 24,
+            "hombre": true,
+            "INE" : {
+                "numero": 22222233,
+                "C_P" : 54321,
+                "fotografia" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm764468.html&psig=AOvVaw2Fy7SVAEqSgxbK8fJTvOnU&ust=1756394333699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi6mKHcq48DFQAAAAAdAAAAABAE",
+                "residencias":[
+
+                ]
+            }
+        },
+        {
+            "nombre": "Lizzie",
+            "edad": 24,
+            "hombre": false,
+            "INE" : {
+                "numero": 626262,
+                "C_P" : 35463,
+                "fotografia" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm764468.html&psig=AOvVaw2Fy7SVAEqSgxbK8fJTvOnU&ust=1756394333699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi6mKHcq48DFQAAAAAdAAAAABAE",
+                "residencias":[
+                    "Milan 9332_46, 32685 Juarez Chih0",
+                    "S. Allende 7211, Independencia II, 32640 Juarez, Chih",
+                    "Miguel Cuesta 6218, Parques industriales, 32625 Juarez Chih"
+                ]
+            } 
+        },
+        {
+            "nombre": "Sergio Gonzales",
+            "edad": 96,
+            "hombre": true,
+            "INE" : {
+                "numero": 2956254859,
+                "C_P" : 97526,
+                "fotografia" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm764468.html&psig=AOvVaw2Fy7SVAEqSgxbK8fJTvOnU&ust=1756394333699000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi6mKHcq48DFQAAAAAdAAAAABAE",
+                "residencias":[
+                    "S. Allende 7211, Independencia II, 32640 Juarez, Chih",
+                    "Miguel Cuesta 6218, Parques industriales, 32625 Juarez Chih"
+                ]
+            }  
+        }
+    ]
+}
