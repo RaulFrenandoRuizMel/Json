@@ -9,7 +9,7 @@ entradaArchivo.addEventListener("change",() => {
         var archivo_json = JSON.parse(reader.result);
         console.log(archivo_json);//muestra todas la variables
         console.log(archivo_json.variable2)
-        console.log(archivo_json.coleccion.texto)
+        //console.log(archivo_json.coleccion.texto)
         console.log(archivo_json.arreglo0[3])
         console.log(archivo_json.arreglo0[8].dias[1])
         console.log(archivo_json.arreglo_bidimensional[1][3])

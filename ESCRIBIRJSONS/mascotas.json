@@ -50,6 +50,165 @@
                     }
                 }
             }
+        },
+        {
+            "nombre": "Bongpo",
+            "edad" : 7,
+            "genero": true,
+            "status": "vivo",
+            "identificacion":
+            {
+                "id" : 151522,
+                "pais" : "Reino Unido",
+                "estado" : "Londres",
+                "ciudad": "Londres",
+                "fotografia" :"https://es.wikipedia.org/wiki/D%C3%A1lmata_(perro)",
+                "pedigree":
+                {
+                    "nombre_raza" : "Dalmata",
+                    "porcentaje_pureza": "97%",
+                    "color": "Blanco Con Negro",
+                    "familia_peruna":
+                    {
+                        "progenitores":
+                        {
+                            "padre": 
+                            {
+                                "id": 266332,
+                                "nombre": "Roco",
+                                "raza": "Dalmata"
+                            },
+                            "madre": 
+                            {
+                                "id": 157231,
+                                "nombre": "Juana",
+                                "raza": "Dalmata"
+                            }
+                        },
+                        "hermanos":[
+                            {
+                                "id": 2
+                            },
+                            {
+                                "id": 5
+                            },
+                            {
+                                "id": 3
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "nombre": "Yukiko",
+            "edad" : 8,
+            "genero": true,
+            "status": "vivo",
+            "identificacion":
+            {
+                "id" : 364595,
+                "pais" : "Mexico",
+                "estado" : "Chihuahua",
+                "ciudad": "Ciudad Juarez",
+                "fotografia" :"https://www.dogster.com/dog-breeds/akita",
+                "pedigree":
+                {
+                    "nombre_raza" : "Akita Americano",
+                    "porcentaje_pureza": "90%",
+                    "color": "Crema con Blanco",
+                    "familia_peruna":
+                    {
+                        "progenitores":
+                        {
+                            "padre": 
+                            {
+                                "id": 236445,
+                                "nombre": "El Guapo",
+                                "raza": "Akita Americano"
+                            },
+                            "madre": 
+                            {
+                                "id": 254715,
+                                "nombre": "Matilde",
+                                "raza": "Akita Americano"
+                            }
+                        },
+                        "hermanos":[
+                            {
+                                "id": 1
+                            },
+                            {
+                                "id": 2
+                            },
+                            {
+                                "id": 3
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "nombre": "Dana",
+            "edad" : 10,
+            "genero": false,
+            "status": "Fallecido",
+            "identificacion":
+            {
+                "id" : 250101,
+                "pais" : "Mexico",
+                "estado" : "Chihuahua",
+                "ciudad": "Hidalgo del Parral",
+                "fotografia" :"https://www.gettyimages.es/fotos/san-bernardo",
+                "pedigree":
+                {
+                    "nombre_raza" : "San Bernardo",
+                    "porcentaje_pureza": "95%",
+                    "color": "Blanco Con Cafe Y Negro",
+                    "familia_peruna":
+                    {
+                        "progenitores":
+                        {
+                            "padre": 
+                            {
+                                "id": 154218,
+                                "nombre": "Jesus",
+                                "raza": "San Bernardo"
+                            },
+                            "madre": 
+                            {
+                                "id": 262646,
+                                "nombre": "Laura",
+                                "raza": "San Bernardo"
+                            }
+                        },
+                        "hermanos":[
+                            {
+                                "id": 7
+                            },
+                            {
+                                "id": 6
+                            },
+                            {
+                                "id": 5
+                            },
+                            {
+                                "id": 4
+                            },
+                            {
+                                "id": 3
+                            },
+                            {
+                                "id": 2
+                            },
+                            {
+                                "id": 1
+                            }
+                        ]
+                    }
+                }
+            }
         }
     ]
         
